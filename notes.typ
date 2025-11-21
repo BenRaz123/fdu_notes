@@ -1264,7 +1264,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - / Genotype
     : _no definition_
 - / Hemoglobin
-    : _no definition_
+    : The protein in red blood cells, responsible for the red color
 - / Heterozygous
     : _no definition_
 - / Homozygous
@@ -1346,9 +1346,6 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 )
 
 - Mixing incorrectly is fatal 
-
-== Explain the application of serology in typing whole blood
-
 - @ch15[Serology] is used to test for A-B-O
     - To test, only antiserum-A and antiserum-B are needed
 - $+$ means agglutination, $-$ means no agglutination
@@ -1393,10 +1390,17 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
           drug $D$
         - Immunoassay for drugs is _presumptive_ in nature and must be confirmed
           with other tests
+- Questions when examining dried blood:
+    + Is it blood
+    + What species blood from
+    + How closely can it be associated with one individual
+- Color tests are used to type blood
+    - benzidine was a carcinogen so its replaced with phenolphthalein 
+- Color tests cause oxidization which can be measured
 
 == Discuss the principles of heredity
 
-- 
+-   
 
 == Summarize the lab tests necessary to characterize seminal stains
 
