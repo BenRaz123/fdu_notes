@@ -1313,7 +1313,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     - @ch15[plasma] (55%)
     - Solid materials (45%):
         - @ch15[erythrocytes]
-        - white blood cells
+        - (leukocytes) white blood cells
         - platelets
 - Clots are made when fibrin traps enmesh red blood cells
 - Relevant to ID:
@@ -1328,7 +1328,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     - AB
     - O
     - Rh Positive = has D antigen
-- Serum contains @ch15[antibodies] (@ch15[antiserum])
+- @ch15[Serum] contains @ch15[antibodies] (@ch15[antiserum])
     - $exists "anti-"X quad forall X: "antigen"$
     - Antibody-$X$ only reacts with antigen $X$
     - Antibodies attach to two different red blood cells so that means that
@@ -1387,7 +1387,16 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 
 == Describe forensic tests used to characterize a stain as blood
 
+- Antigen-antibody interaction is being applied to:
+    - Drug detection
+        - The Drug $D$ combined with a protein will trigger antibodies for the
+          drug $D$
+        - Immunoassay for drugs is _presumptive_ in nature and must be confirmed
+          with other tests
+
 == Discuss the principles of heredity
+
+- 
 
 == Summarize the lab tests necessary to characterize seminal stains
 
