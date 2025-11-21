@@ -1300,6 +1300,13 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - / Zygote
     : _no definition_
 
+== Intro
+
+- 1901: Lansteiner discovers A-B-O blood group system
+- 1930's - Rh factor identified, leading to more than 100 known blood factors
+  (individual characteristics)
+- 1990s: Moving away from that towards DNA
+
 == Explain the nature of blood and the concept of antigen-antibody interactions
 
 - Blood is made of:
@@ -1413,3 +1420,4 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 + Wednesday 11/12: Read 127-132
 + Thursday 11/13: Read 132-138
 + Thursday: 11/20: Read 375-381
++ Friday: 11/21: Read 281-387
