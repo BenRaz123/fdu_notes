@@ -1238,11 +1238,11 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 == Key Terms <ch15>
 
 - / Acid phosphate
-    : _no definition_
+    : An enzyme found in large numbers in semen
 - / Agglutination
     : The massing together of red blood cells because of an antibody
 - / Allele
-    : _no definition_
+    : Options a gene might take
 - / Antibody
     : A protein that reacts against and destroys a specific antigen
 - / Antigen
@@ -1250,37 +1250,40 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - / Antiserum
     : Serum that has antibodies
 - / Aspermia
-    : _no definition_
+    : No sperm
 - / Chromosome
-    : _no definition_
+    : A rod-like structure composed of DNA as well as other proteins that can
+    be found in the center of the cell
 - / DNA
     : Double helix molecules carrying the genetic information
 - / Egg
-    : _no definition_
+    : Female reproductive cell
 - / Erythrocyte
     : A red blood cell
 - / Gene
-    : _no definition_
+    : A unit of inheritance consisting of DNA mounted at a chromosome
 - / Genotype
-    : _no definition_
+    : Genes in cells
 - / Hemoglobin
     : The protein in red blood cells, responsible for the red color
 - / Heterozygous
-    : _no definition_
+    : The property of having two different allelic genes on two corresponding
+    positions on a pair of chromosomes
 - / Homozygous
-    : _no definition_
+    : The property of having two _identical_ allelic genes on two corresponding
+    parts of a pair of chromosomes
 - / Hybridoma cells
     : _no definition_
 - / Locus
-    : _no definition_
+    : Physical location of a gene on a chromosome
 - / Luminol
     : _no definition_
 - / Monoclonal antibodies
     : _no definition_
 - / Oligospermia
-    : _no definition_
+    : Low sperm count
 - / Phenotype
-    : _no definition_
+    : Manifestation of genotype
 - / Plasma
     : Liquid component of blood
 - / Polyclonal antibodies
@@ -1292,13 +1295,13 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - / Serum
     : Pale yellowish liquid left over from a blood clot
 - / Sperm
-    : _no definition_
-- / X chromosome
-    : _no definition_
-- / Y chromosome
-    : _no definition_
+    : Male reproductive cell
+- / X Chromosome
+    : Female sex chromosome
+- / Y Chromosome
+    : Male sex chromosome
 - / Zygote
-    : _no definition_
+    : The combination of sperm and egg cell, becomes fetus
 
 == Intro
 
@@ -1400,9 +1403,51 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 
 == Discuss the principles of heredity
 
--   
+- @ch15[Genes], often in concert with other genes, control hereditary attributes
+    - Situated in @ch15[chromosomes]
+        - Chromosomes are usually in 23 pairs but in the @ch15[sperm] and
+          @ch15[egg] there are only 23 chromosomes
+          - The sperm and the egg pair each of their chromosomes when they mate
+            to create a @ch16[zygote] with 23 pairs of chromosomes
+- How sex is determined:
+    - The egg's X chromosome is matched with the sperm cell's X or Y chromosome:
+        - / X
+            : Female
+        - / Y
+            : Male
+- Alleles>location = @ch15[locus]
+- Locus is similar on mother and father chromosomes
+- @ch15[Homozygous]/@ch15[Heterozygous] = Same alleles on the same
+  locus/different alleles
+- If alleles are Dominant versus Recessive:
+    - DR = D
+    - RD = D
+    - RR = R
+    - DD = DD
 
 == Summarize the lab tests necessary to characterize seminal stains
+
+- Each ejaculation, 2.5-6 mililiters of semen is released, including 100 million
+  or more of spermatozoa
+- Sperm stains on fabric are usually what is tested
+- tests:
+    - @ch15[Acid Phosphatase] Test: 
+        - Acid phosphatase can be revealed with sodium alpha naphthylphosphate
+          as well as Fast Blue B dye
+        - MUP fluoresces under UV light when in contact
+        - Useful for locating semen stains
+        - Other compounds may also react to this test but sperm will react the
+          fastest
+        - Not conclusive
+    - Finding a spermatozoa:
+        - Sperm are tightly bound to cloth and disintegrate on dry area so it is
+          hard to find them. Also in many rape/sexual crimes cases the
+          perpetrator has a low sperm count (@ch15[oligospermia] or
+          @ch15[aspermia] 
+        - Not always possible
+    - Finding PSA:
+        - Protein called prostate specific antigen (PSA)
+        - It is always sperm and always there
 
 == Describe the collection and analysis of physical evidence in a rape investigation
 
@@ -1434,3 +1479,4 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 + Thursday 11/13: Read 132-138
 + Thursday: 11/20: Read 375-381
 + Friday: 11/21: Read 281-387
++ Monday: 11/24: Read 387-393
