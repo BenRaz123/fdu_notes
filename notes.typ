@@ -615,24 +615,24 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     : Angle ($alpha$) of the blood's path relative to the plane it landed on
     - Can be determined by $sin alpha = "width"/"height"$
 - / Area of convergence
-    : _no definition_
+    : The location, on a 2d plane, where the blood drops originated
 - / Area of origin
-    : _no definition_
+    : The area, in a 3d space, where the blood came from
 - / Backspatter
     : A bloodstain pattern resulting from blood drops that can be produced when
     a projective creates an entrance wound
 - / Cast-off
-    : _no definition_
+    : When a thrown-off blood-covered object sprays blood in an arc
 - / Crime-scene reconstruction
     : Method used to provide evidence for a series of events at a crime scene
     using observations of the crime scene as well as testimony witnesses and
     other involved persons
 - / Drip trail pattern
-    : _no definition_
+    : A pattern formed by blood dripping down in drops
 - / Expiration pattern
-    : _no definition_
+    : Blood thrown out through the nose or mouth
 - / Flows
-    : _no definition_
+    : Large spatters of blood flowing from gravity on a surface
 - / Forward spatter
     : A bloodstain pattern resulting from blood drops that can be produced when
     a projectile creates an exit wound #from_the_textbook
@@ -640,7 +640,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     : A bloodstain pattern resulting from an object striking liquid blood
     #from_the_textbook
 - / Perimeter stain
-    : _no definition_
+    : A stain in which the outer part dried and stuck but the inner part didn't
 - / Projected pattern
     : _no definition_
 - / Satellite stain
@@ -650,9 +650,9 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     : A bloodstain resulting from an airborne blood drop created when external
     force is applied to liquid blood #from_the_textbook
 - / Transfer stain
-    : _no definition_
+    : A stain created when a bloodied object imprints blood on a clean object
 - / Void
-    : _no definition_
+    : A spatter created when an object holds back part of the spatter
 
 == Summarize the principles of crime-scene reconstruction and the personnel involved in reconstruction
 
@@ -686,6 +686,30 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 
 == Describe how various blood pattern types are created and which features of each pattern can be used to aid in reconstructing events at a crime scene
 
++ Find the @ch4[area of convergence]
++ Place a pole to mark the area of convergence
++ Place a string on each droplet, connecting to the pole at the angle the
+  droplet is at
++ You now have the @ch4[area of origin]
+- More patterns:
+    - Gunshot: forward spatter (from exit wound) and backwards spatter (from
+      entry wound)
+    - @ch4[Cast-Off] spatter: The angle of the arc can tell about where it came
+      from
+        - Size of drops $prop$ size of thing casting off blood
+        - Show _minimum_ amount of blows inflicted
+    - Projected Pattern: When an artery is broken and blood gushes out
+    - @ch4[Expiration Pattern]: Can produce fine spatter, irregular pattern and
+      edges
+    - @ch4[Void spatter]: Can help establish body position
+    - @ch4[Transfer Stains] can provide individual characteristics
+    - The time of interruption in @ch4[flows] can reveal time info
+    - Pools can reveal chronological information due to how absorbed they are
+        - Whether the @ch4[perimeter stain] had time to develop before being
+          wiped indicates chronological info
+    - @ch4[Drip tail patterns] usually form a line which follows the movement of
+      the victim, can lead to cool stuff like a discarded weapon
+
 == Describe the methods for documenting bloodstain patterns at a crime scene
 
 - Take a lot of photos
@@ -693,7 +717,9 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
     - Make a grid out of string and take photos all around that grid
 - _Perimeter Ruler_:
     - Take photos with rules all around the perimeter for reference
-- 
+- The field of bloodstain analysis has a high error rate and not uniform
+  training
+    - Important to independently verify
 
 = Chapter 11: Hairs & Fibers <c11>
 
