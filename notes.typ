@@ -607,7 +607,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
         - Means that suspect has been in direct contact with the plant
 - Precise palynology often requires SEM
 
-= Crime-scene reconstruction: bloodstain analysis patterns <c4>
+= Chapter 4: Crime-scene reconstruction: bloodstain analysis patterns <c4>
 
 == Key Terms <ch4>
 
@@ -687,6 +687,13 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 == Describe how various blood pattern types are created and which features of each pattern can be used to aid in reconstructing events at a crime scene
 
 == Describe the methods for documenting bloodstain patterns at a crime scene
+
+- Take a lot of photos
+- _Grid Method_: 
+    - Make a grid out of string and take photos all around that grid
+- _Perimeter Ruler_:
+    - Take photos with rules all around the perimeter for reference
+- 
 
 = Chapter 11: Hairs & Fibers <c11>
 
@@ -1480,3 +1487,4 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 + Thursday: 11/20: Read 375-381
 + Friday: 11/21: Read 281-387
 + Monday: 11/24: Read 387-393
++ Thursday: 12/4: Read 94-100
