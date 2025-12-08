@@ -1441,7 +1441,7 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
         - Chromosomes are usually in 23 pairs but in the @ch15[sperm] and
           @ch15[egg] there are only 23 chromosomes
           - The sperm and the egg pair each of their chromosomes when they mate
-            to create a @ch16[zygote] with 23 pairs of chromosomes
+            to create a @ch15[zygote] with 23 pairs of chromosomes
 - How sex is determined:
     - The egg's X chromosome is matched with the sperm cell's X or Y chromosome:
         - / X
@@ -1483,6 +1483,74 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
         - It is always sperm and always there
 
 == Describe the collection and analysis of physical evidence in a rape investigation
+
+
+= Chapter 9: Firearms, Tool Marks, and Other Impressions
+
+== Key Terms <ch9>
+
+- / Bore
+    : The interior of a firearm barrel
+- / Breechface
+    : Rear part of a firearm barrel
+- / Caliber
+    : Diameter of the bore, expressed in 100ths of an inch or millimeters
+- / Choke
+    : A constriction placed near the muzzle that allows for control over shot
+    dispersion
+- / Distance determination
+    : The process of determining the distance between the firefarm and target,
+    based off of poweder patterns and spread of the shot pattern
+- / Ejector
+    : How the fired casing is thrown off
+- / Extractor
+    : How the fired casing is removed from the chamber 
+- / Firearms identification
+    : Determining if a particular bullet was fired by a particular gun
+- / Gauge
+    : Number of lead balls the same diameter of a gun's barrel that would make a
+    pound
+- / Greiss test
+    : A chemical test to develop patterns of gunpowder residues around bullet
+    holes
+- / Grooves
+    : The low portions between lands in a rifled bore
+- / Lands
+    : The raised portion next to the grooves in a rifled bore
+- / Rifling
+    : The spiral grooves formed in the bore of a firearm barrel that create
+    rotational momentum for the bullet
+
+== Describe the types of firearms and techniques for rifling a barrel
+
+- / Single Action: One round at a time, rounds must be manually loaded
+- / Double Action: Automatically reload
++ Handguns
++ Long guns
+  - Shotguns: File slugs and don't have grooves
+- The process of rifling involves creating grooves which contain spiralling
+  @ch9[lands] and @ch9[Grooves].
+- Techniques for rifling used to be manual but are no automatic
+
+== Recognize the class and individual characteristics of bullets and cartridge cases
+
+- Striation markings are *individual* characteristics
+- Comparisons must be made to a reference bullet
+- Compairison is made difficult due to wear and tear on the bullet and the fact
+  that it may be smushed as well as time-basse differences with the grooves
+- Cartridge markings can also be useful
+
+== Discuss the various search systems developed by the FBI and ATF
+
+== Explain the procedure for determining how far a weapon was fired from a target
+
+== Identify the lab tests for determining whether an individual has fired a weapon
+
+== Discuss the procedures for collecting and preserving firearms evidence and restoring serial numbers
+
+== Explain the forensic significance of class and individual characteristics to the comparison of tool mark, footwear, and tire impressions
+
+== Discuss the preservation, lifting, casting, and comparison of impressions left at a crime scene
 
 = Work Log
 
