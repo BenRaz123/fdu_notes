@@ -1536,21 +1536,50 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 
 - Striation markings are *individual* characteristics
 - Comparisons must be made to a reference bullet
-- Compairison is made difficult due to wear and tear on the bullet and the fact
-  that it may be smushed as well as time-basse differences with the grooves
+- Comparison is made difficult due to wear and tear on the bullet and the fact
+  that it may be smushed as well as time-based differences with the grooves
 - Cartridge markings can also be useful
 
 == Discuss the various search systems developed by the FBI and ATF
 
+- Historical:
+    - DRUGFIRE (FBI)
+    - Integrated Ballistic ID System (IBIS) (ATF)
+- NIBIN (merger)
+
 == Explain the procedure for determining how far a weapon was fired from a target
+
+- @ch9[Distance determination] good for refuting claims of self defence
+    - Analysis of the gunpowder is used
+        - @ch9[Greiss Test]
 
 == Identify the lab tests for determining whether an individual has fired a weapon
 
+- Primer residue is shot back at the shooter and can tell if the person in
+  question shot a gun recently
+    - Dermal nitrate test unreliable
+        - Too many false positives
+    - Tests for barium and antimony
+        - Swab
+            - Low rate of positive findings due to, you know, washing your hands
+        - SEM
+            - More exact but way more expensive
+
 == Discuss the procedures for collecting and preserving firearms evidence and restoring serial numbers
+
+- Serial numbers are stamped in and the stamping produces pressure which can be
+  observed
+    - Involves cleaning and then a reagent
 
 == Explain the forensic significance of class and individual characteristics to the comparison of tool mark, footwear, and tire impressions
 
+- Take care not to disturb the bullet and the striation markings
+
 == Discuss the preservation, lifting, casting, and comparison of impressions left at a crime scene
+
+- Photograph with scale
+- Shoe markings:
+    - Make casts
 
 = Work Log
 
