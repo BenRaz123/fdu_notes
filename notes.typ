@@ -1206,6 +1206,8 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 
 == Explain the primary classification system of fingerprints
 
+- Juan Vucetich extended Galton's system and his system is used in many
+  spanish-speaking countries
 - the FBI system, used in the US, is extended from the original Henry system
 - Primary Classification system:
     - 1024 groups
@@ -1580,6 +1582,62 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - Photograph with scale
 - Shoe markings:
     - Make casts
+
+= Chapter 16: DNA <c16>
+
+
+== Key Terms <ch16>
+
+- / Polymerase Chain Reaction
+    : Controlled method of DNA replication in a lab
+- / Tandem Repeats
+    : A piece of a chromosome that contain repeating DNA sequence
+- / Restriction Fragment Length Polymorphisms (RFLP)s
+    : Different fragment lengths of base pairs that result from cutting a DNA
+    molecule with restriction enzymes.
+- / Electrophoresis
+    : Method of sorting/separating out RFLP fragments
+- / Short Tandem Repeats (STR)s
+    : Short sequences of DNA that are repeated
+== Structure of DNA
+
+- 4 Base pairs:
+    - Adenine (A)
+    - Cytosine (C)
+    - Guanine (G)
+    - Thymine (T)
+    - T pairs with A
+    - G pairs with C
+- Base pairs code for every protein in the body
+    - A group of 3 base pairs codes for an amino acid
+- Millions of base pairs in a strand of DNA
+- DNA shaped like a double helix / twisted ladder (like a wire twisted around
+  each other)
+
+== DNA Replication
+
+- When creating a new copy of DNA: 
+    + the double helix is unzipped. 
+    + nucleotides are added to the open strand in the correct order
+- You can use @ch16[PCR] to create copies of a DNA strand, like what happens in
+  our own cells
+
+== Tandem Repeats
+
+- @ch16[TR]s dont seem to code for anything useful, only padding but they are a
+  unique ID
+- Can be visualized as a sequence of boxes
+- @ch16[RFLP] was a popular method until PCR came onto the scene
+- @ch16[STR]s are useful markers for identification because they occur so
+  frequently in the human genome
+    - And also because they are more damage-resistant
+- The number of repeats in STRs is variable and inherited, they are class
+  characteristics but can be individualized with the product rule
+- Multiplexing allows analysis of multiple STRs in parallel
+- Chance of match is frequency of occurrence in general population
+- Amelogenin gene lets you determine sex
+- A Y-Str is an STR that is specific to the Y chromosome which is specific to
+  men
 
 = Work Log
 
