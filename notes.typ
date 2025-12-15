@@ -1638,6 +1638,21 @@ $ M = product^("lens"_n)_("lens"_0) M_"lens" $ ($M$ = magnification)
 - Amelogenin gene lets you determine sex
 - A Y-Str is an STR that is specific to the Y chromosome which is specific to
   men
+- Only 18 cells are needed to determine a STR profile
+- Biological evidence should be:
+    - Sketched
+    - Measured
+    - Photographed
+- Steps to minimize contamination:
+    + Use double-layered gloves
+    + Wear a face mask, lab coat, eye protection, shoe covers
+    + Change outer gloves before handling each piece
+    + Collect a control
+    + Pick up evidence using clean forceps
+    + Package in well-ventilated containers
+- Reveal blood with:
+    - Luminol
+    - Bluestar
 
 = Work Log
 
